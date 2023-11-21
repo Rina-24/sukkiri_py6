@@ -1,5 +1,6 @@
 scores1 = [80,40,50]
 scores2 = [80,40,50]
+
 print(f"scores1のidentity:{id(scores1)}")
 print(f"scores2のidentity:{id(scores2)}")
 
